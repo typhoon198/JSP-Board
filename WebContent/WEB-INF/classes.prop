@@ -1,0 +1,3 @@
+#classes.prop
+memberDAO=com.ti.dao.MemberDAOMySql
+boardDAO=com.ti.dao.BoardDAOMySql
